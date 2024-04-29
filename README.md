@@ -18,4 +18,3 @@ LogEye is a powerful tool designed to monitor and analyze log data from computer
 - Scalable architecture to accommodate networks of various sizes.
 - Detailed logs and reports for post-incident analysis.
 
-![image](https://github.com/ShreeveshKumar/innohacks/assets/115733778/d4954aae-dca3-4b03-bc8e-5080cf71f2de)
