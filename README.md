@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+ # LogEye
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ![web1](https://github.com/pal2004/innohacks/assets/150178011/ab42404f-0b0a-4760-b411-3c0cccc38b43)
 
-## Available Scripts
+## Tagline:
+Observe anything from anywhere
 
-In the project directory, you can run:
+![web2](https://github.com/pal2004/innohacks/assets/150178011/585640ee-3150-48a0-9e55-043a95a1f595)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+LogEye is a powerful tool designed to monitor and analyze log data from computer systems within a network. Its primary function is to detect unauthorized changes and events based on predefined criteria, providing real-time alerts to administrators.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ## Features:
+- Monitor log data from multiple computer systems within a network.
+- Real-time alerts for unauthorized changes and specific event IDs.
+- Customizable criteria for alert generation.
+- User-friendly interface for easy navigation and configuration.
+- Scalable architecture to accommodate networks of various sizes.
+- Detailed logs and reports for post-incident analysis.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/ShreeveshKumar/innohacks/assets/115733778/d4954aae-dca3-4b03-bc8e-5080cf71f2de)
